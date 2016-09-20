@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Washington Post</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="title_activity_view_contents">ViewContents</string>
+    <string name="error">Network Error</string>
+
+</resources>
